@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-financial-master-data-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-financial-master-data",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-financial-master-data-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/financial-master-data.md",
+  "presentationPlan": "projects/accounting/nuxt/financial-master-data.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
